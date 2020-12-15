@@ -1,6 +1,6 @@
-### Welcome to my GitHub profile 👋
+# Welcome to my GitHub profile 👋
 
-## I'm a Full Stack Developer!
+## I'm a Full Stack Developer
 
 - 🌱 I’m currently learning Advanced JavaScript and revising the concepts of DSA.
 - 🥅 2021 Goals: Learn Data Structures and Algorithms thoroughly.
@@ -8,17 +8,15 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LuciKritZ's Playlist" width="350" />](https://open.spotify.com/user/i13m9tp7fv5ahosl8jwd4rg90?si=N-KniDcQQP2GJmlfRQiwFQ)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LuciKritZ's Playlist" width="350"/>](https://open.spotify.com/user/i13m9tp7fv5ahosl8jwd4rg90?si=N-KniDcQQP2GJmlfRQiwFQ)
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Krishal Shah" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+[<img align="left" alt="Krishal Shah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedinsvg"/>][linkedin]
+[<img align="left" alt="LuciKriZ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
-<br />
-
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -56,11 +54,21 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="LuciKritZ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuciKritZ&show_icons=true&hide_border=true" />
+  <a href="https://github.com/LuciKritZ/LuciKritZ">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciKritZ&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/LuciKritZ/LuciKritZ">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuciKritZ&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  </a>
+  <a href="https://github.com/LuciKritZ/LuciKritZ-Messenger">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciKritZ&repo=LuciKritZ-Messenger&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 
+  <a href="https://github.com/LuciKritZ/next-js-tutorial">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LuciKritZ&repo=next-js-tutorial&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 </details>
 
-[website]: https://codeSTACKr.com
 [youtube]: https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ
 [instagram]: https://instagram.com/lucikritz
 [linkedin]: https://linkedin.com/in/krishal-shah
