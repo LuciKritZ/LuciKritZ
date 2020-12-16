@@ -13,8 +13,8 @@
 ### Connect with me
 
 [<img align="left" alt="Krishal Shah" width="22px" src="https://cdn4.iconfinder.com/data/icons/bettericons/354/youtube-512.png"/>][youtube]
-[<img align="left" alt="Krishal Shah | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark-thumbnail.png"/>][linkedin]
-[<img align="left" alt="LuciKriZ | Instagram" width="22px" src="https://www.clipartmax.com/png/middle/95-953659_white-instagram-icon-instagram-icon-png-blue.png"/>][instagram]
+[<img align="left" alt="Krishal Shah | LinkedIn" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-512.png"/>][linkedin]
+[<img align="left" alt="LuciKriZ | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-03-512.png"/>][instagram]
 
 <br />
 <br />
@@ -33,7 +33,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0d1f27efb836eb2ab994ba37221849ed64a73e5c/svgs/brands/github.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
