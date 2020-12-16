@@ -12,9 +12,9 @@
 
 ### Connect with me
 
-[<img align="left" alt="Krishal Shah" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0d1f27efb836eb2ab994ba37221849ed64a73e5c/svgs/brands/youtube-square.svg"/>][youtube]
-[<img align="left" alt="Krishal Shah | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0d1f27efb836eb2ab994ba37221849ed64a73e5c/svgs/brands/linkedin.svg"/>][linkedin]
-[<img align="left" alt="LuciKriZ | Instagram" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/0d1f27efb836eb2ab994ba37221849ed64a73e5c/svgs/brands/instagram.svg"/>][instagram]
+[<img align="left" alt="Krishal Shah" width="22px" src="https://cdn4.iconfinder.com/data/icons/bettericons/354/youtube-512.png"/>][youtube]
+[<img align="left" alt="Krishal Shah | LinkedIn" width="22px" src="https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark-thumbnail.png"/>][linkedin]
+[<img align="left" alt="LuciKriZ | Instagram" width="22px" src="https://www.clipartmax.com/png/middle/95-953659_white-instagram-icon-instagram-icon-png-blue.png"/>][instagram]
 
 <br />
 <br />
@@ -41,7 +41,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <br />
   <br />
 
   <a href="https://github.com/LuciKritZ/LuciKritZ">
