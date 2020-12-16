@@ -6,13 +6,9 @@
 - 🥅 2021 Goals: Learn Data Structures and Algorithms thoroughly.
 - ⚡ Fun fact: I love to create and compose music.
 
-<br />
-
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LuciKritZ's Playlist" width="350"/>](https://open.spotify.com/user/i13m9tp7fv5ahosl8jwd4rg90?si=N-KniDcQQP2GJmlfRQiwFQ)
-
-<br />
 
 ### Connect with me
 
