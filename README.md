@@ -58,6 +58,11 @@
   </a>
 </details>
 
+<br />
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuciKritZ&theme=dark)](https://git.io/streak-stats)
+
 [youtube]: https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ
 [instagram]: https://instagram.com/lucikritz
 [linkedin]: https://linkedin.com/in/krishal-shah
