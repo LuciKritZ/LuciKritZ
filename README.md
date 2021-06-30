@@ -1,4 +1,7 @@
 # Hi! I am Krishal.
+<br />
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=Views&color=0e75b6&style=plastic" alt="LuciKritZ" /></p>
 
 ### About Me
 
