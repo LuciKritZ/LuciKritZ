@@ -79,10 +79,6 @@
 
 <br />
 
-### 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LuciKritZ's Playlist" width="350"/>](https://open.spotify.com/user/i13m9tp7fv5ahosl8jwd4rg90?si=N-KniDcQQP2GJmlfRQiwFQ)
-
 [youtube]: https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ
 [instagram]: https://instagram.com/lucikritz
 [linkedin]: https://linkedin.com/in/krishal-shah
