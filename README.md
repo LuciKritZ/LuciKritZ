@@ -5,9 +5,9 @@
 
 ### About Me
 
-- I'm a Full Stack Web Developer.
+- I'm a Front-end heavy Full Stack Developer.
 - React | React Native | Node | Python | TypeScript
-- Fun fact: I love to create and compose music.
+- Fun fact: I love to create and compose music. 🎶
 
 ### Featured Repositories
 
