@@ -6,8 +6,7 @@
 ### About Me
 
 - I'm a Full Stack Web Developer.
-- I’m currently learning Advanced JavaScript and revising the concepts of DSA.
-- 2021 Goals: Learn Data Structures and Algorithms thoroughly.
+- React | React Native | Node | Python | TypeScript
 - Fun fact: I love to create and compose music.
 
 ### Featured Repositories
