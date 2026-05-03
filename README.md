@@ -2,20 +2,22 @@
   <img src="./assets/header.svg" alt="LuciKritZ header" width="854" />
 </div>
 
-<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" />
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://krishalshah.in" target="_blank"><img src="./assets/icons/website.svg" alt="Website" width="32" height="32" style="margin-left: 15px;" /></a>
-      <a href="https://linkedin.com/in/krishal-shah" target="_blank"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-left: 15px;" /></a>
-      <a href="https://github.com/LuciKritZ" target="_blank"><img src="./assets/icons/github.svg" alt="GitHub" width="32" height="32" style="margin-left: 15px;" /></a>
-      <a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank"><img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" style="margin-left: 15px;" /></a>
-      <a href="https://x.com/lucikritz" target="_blank"><img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" style="margin-left: 15px;" /></a>
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="middle">
+        <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" />
+      </td>
+      <td valign="middle">
+        <a href="https://krishalshah.in" target="_blank"><img src="./assets/icons/website.svg" alt="Website" width="32" height="32" style="margin-left: 15px;" /></a>
+        <a href="https://linkedin.com/in/krishal-shah" target="_blank"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-left: 15px;" /></a>
+        <a href="https://github.com/LuciKritZ" target="_blank"><img src="./assets/icons/github.svg" alt="GitHub" width="32" height="32" style="margin-left: 15px;" /></a>
+        <a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank"><img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" style="margin-left: 15px;" /></a>
+        <a href="https://x.com/lucikritz" target="_blank"><img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" style="margin-left: 15px;" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
