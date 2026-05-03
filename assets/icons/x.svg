@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: var(--darkreader-background-000000, #000000);"></stop>
+      <stop offset="100%" stop-color="#0a0a0a" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: var(--darkreader-background-0a0a0a, #000000);"></stop>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d9ff" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: var(--darkreader-background-00d9ff, #42a3b4);"></stop>
+      <stop offset="100%" stop-color="#00ff9d" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: var(--darkreader-background-00ff9d, #50c3a2);"></stop>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.6" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+    <style>
+      .star { animation: twinkle var(--d) ease-in-out infinite; animation-delay: var(--dl); }
+      @keyframes twinkle { 0%, 100% { opacity: 0.1; } 50% { opacity: 0.7; } }
+    </style><style class="darkreader darkreader--sync" media="screen"></style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" ry="6" fill="url(#bg)"></rect>
+  
+  <!-- Stars -->
+  <circle class="star" cx="5" cy="5" r="0.2" fill="#ffffff" style="--d: 3s; --dl: 0s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""></circle>
+  <circle class="star" cx="27" cy="5" r="0.2" fill="#ffffff" style="--d: 4s; --dl: 0.4s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""></circle>
+  <circle class="star" cx="5" cy="27" r="0.2" fill="#ffffff" style="--d: 2.5s; --dl: 0.8s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""></circle>
+  <circle class="star" cx="27" cy="27" r="0.2" fill="#ffffff" style="--d: 3.5s; --dl: 1.2s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""></circle>
+  
+  <!-- X Logo - Centered using viewBox trick -->
+  <g transform="translate(4, 4) scale(1)">
+    <path fill="url(#cyan)" filter="url(#glow)" d="M18.244 2.75h3.156l-6.895 7.85 8.088 11.396H16.24l-5.047-7.03-5.76 7.03H2.075l7.355-8.416L2.958 2.75h6.506l4.557 6.388 4.223-6.388zm-1.12 17.243h1.744L9.446 4.126H7.582l9.542 15.867z"></path>
+  </g>
+</svg>

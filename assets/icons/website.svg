@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <!-- Dark background matching your header -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    
+    <!-- Cyan gradient matching your theme -->
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#00ff9d"/>
+    </linearGradient>
+    
+    <!-- Subtle glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <style>
+      .star {
+        animation: twinkle var(--d) ease-in-out infinite;
+        animation-delay: var(--dl);
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.1; }
+        50% { opacity: 0.7; }
+      }
+    </style>
+  </defs>
+  
+  <!-- Solid dark background with rounded corners -->
+  <rect width="32" height="32" rx="6" ry="6" fill="url(#bg)"/>
+  
+  <!-- Minimal twinkling stars -->
+  <circle class="star" cx="5" cy="5" r="0.2" fill="#ffffff" style="--d:3s;--dl:0s"/>
+  <circle class="star" cx="27" cy="5" r="0.2" fill="#ffffff" style="--d:4s;--dl:0.4s"/>
+  <circle class="star" cx="5" cy="27" r="0.2" fill="#ffffff" style="--d:2.5s;--dl:0.8s"/>
+  <circle class="star" cx="27" cy="27" r="0.2" fill="#ffffff" style="--d:3.5s;--dl:1.2s"/>
+  
+  <!-- Globe Icon (larger, perfectly centered) -->
+  <g transform="translate(16, 16)">
+    <!-- Globe circle -->
+    <circle cx="0" cy="0" r="9.5" fill="none" stroke="url(#cyan)" stroke-width="1.4" filter="url(#glow)"/>
+    <!-- Longitude lines -->
+    <ellipse cx="0" cy="0" rx="4" ry="9.5" fill="none" stroke="url(#cyan)" stroke-width="1" opacity="0.7"/>
+    <ellipse cx="0" cy="0" rx="9.5" ry="3" fill="none" stroke="url(#cyan)" stroke-width="1" opacity="0.5"/>
+    <!-- Center dot -->
+    <circle cx="0" cy="0" r="1.5" fill="url(#cyan)" filter="url(#glow)"/>
+  </g>
+</svg>

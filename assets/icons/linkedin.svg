@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: var(--darkreader-background-000000, #000000);"/>
+      <stop offset="100%" stop-color="#0a0a0a" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: var(--darkreader-background-0a0a0a, #000000);"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d9ff" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: var(--darkreader-background-00d9ff, #42a3b4);"/>
+      <stop offset="100%" stop-color="#00ff9d" data-darkreader-inline-stopcolor="" style="--darkreader-inline-stopcolor: var(--darkreader-background-00ff9d, #50c3a2);"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .star { animation: twinkle var(--d) ease-in-out infinite; animation-delay: var(--dl); }
+      @keyframes twinkle { 0%, 100% { opacity: 0.1; } 50% { opacity: 0.7; } }
+    </style><style class="darkreader darkreader--sync" media="screen"/>
+  </defs>
+  
+  <!-- Background with rounded corners -->
+  <rect width="32" height="32" rx="6" ry="6" fill="url(#bg)"/>
+  
+  <!-- Twinkling stars -->
+  <circle class="star" cx="5" cy="5" r="0.2" fill="#ffffff" style="--d: 3s; --dl: 0s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""/>
+  <circle class="star" cx="27" cy="5" r="0.2" fill="#ffffff" style="--d: 4s; --dl: 0.4s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""/>
+  <circle class="star" cx="5" cy="27" r="0.2" fill="#ffffff" style="--d: 2.5s; --dl: 0.8s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""/>
+  <circle class="star" cx="27" cy="27" r="0.2" fill="#ffffff" style="--d: 3.5s; --dl: 1.2s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""/>
+  
+  <!-- Official LinkedIn Logo (centered using same method as Twitter) -->
+  <g transform="translate(6, 6) scale(1.3)">
+    <path fill="url(#cyan)" filter="url(#glow)" d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/>
+  </g>
+</svg>
