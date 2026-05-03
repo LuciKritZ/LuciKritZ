@@ -3,27 +3,30 @@
 <br />
 
 <div align="center">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=Views&color=0e75b6&style=plastic" alt="Profile views" />
-  </p>
-</div>
-
-<div align="center">
-  <a href="https://krishalshah.in" target="_blank" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="./assets/icons/website.svg" alt="Website" width="32" height="32" />
-  </a>
-  <a href="https://linkedin.com/in/krishal-shah" target="_blank" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" />
-  </a>
-  <a href="https://github.com/LuciKritZ" target="_blank" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="./assets/icons/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" />
-  </a>
-  <a href="https://x.com/lucikritz" target="_blank" rel="noopener noreferrer" style="margin: 0 12px;">
-    <img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td align="left" style="border: none;">
+        <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" />
+      </td>
+      <td align="right" style="border: none;">
+        <a href="https://krishalshah.in" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">
+          <img src="./assets/icons/website.svg" alt="Website" width="32" height="32" />
+        </a>
+        <a href="https://linkedin.com/in/krishal-shah" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">
+          <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" />
+        </a>
+        <a href="https://github.com/LuciKritZ" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">
+          <img src="./assets/icons/github.svg" width="32" height="32" />
+        </a>
+        <a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">
+          <img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" />
+        </a>
+        <a href="https://x.com/lucikritz" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">
+          <img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -47,8 +50,6 @@ Node.js · Express · GraphQL · WebSockets · MongoDB · Redis · PostgreSQL ·
 **_DevOps & Tools_**
 <br />
 Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus · Grafana · Figma
-
-<br />
 
 ---
 

@@ -20,27 +20,10 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    
-    <style>
-      .star {
-        animation: twinkle var(--d) ease-in-out infinite;
-        animation-delay: var(--dl);
-      }
-      @keyframes twinkle {
-        0%, 100% { opacity: 0.1; }
-        50% { opacity: 0.7; }
-      }
-    </style>
   </defs>
   
   <!-- Solid dark background with rounded corners -->
   <rect width="32" height="32" rx="6" ry="6" fill="url(#bg)"/>
-  
-  <!-- Minimal twinkling stars -->
-  <circle class="star" cx="5" cy="5" r="0.2" fill="#ffffff" style="--d:3s;--dl:0s"/>
-  <circle class="star" cx="27" cy="5" r="0.2" fill="#ffffff" style="--d:4s;--dl:0.4s"/>
-  <circle class="star" cx="5" cy="27" r="0.2" fill="#ffffff" style="--d:2.5s;--dl:0.8s"/>
-  <circle class="star" cx="27" cy="27" r="0.2" fill="#ffffff" style="--d:3.5s;--dl:1.2s"/>
   
   <!-- Globe Icon (larger, perfectly centered) -->
   <g transform="translate(16, 16)">

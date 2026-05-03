@@ -15,20 +15,9 @@
         <feMergeNode in="SourceGraphic"></feMergeNode>
       </feMerge>
     </filter>
-    <style>
-      .star { animation: twinkle var(--d) ease-in-out infinite; animation-delay: var(--dl); }
-      @keyframes twinkle { 0%, 100% { opacity: 0.1; } 50% { opacity: 0.7; } }
-    </style><style class="darkreader darkreader--sync" media="screen"></style>
   </defs>
-  
   <!-- Background -->
   <rect width="32" height="32" rx="6" ry="6" fill="url(#bg)"></rect>
-  
-  <!-- Stars -->
-  <circle class="star" cx="5" cy="5" r="0.2" fill="#ffffff" style="--d: 3s; --dl: 0s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""></circle>
-  <circle class="star" cx="27" cy="5" r="0.2" fill="#ffffff" style="--d: 4s; --dl: 0.4s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""></circle>
-  <circle class="star" cx="5" cy="27" r="0.2" fill="#ffffff" style="--d: 2.5s; --dl: 0.8s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""></circle>
-  <circle class="star" cx="27" cy="27" r="0.2" fill="#ffffff" style="--d: 3.5s; --dl: 1.2s; --darkreader-inline-fill: var(--darkreader-text-ffffff, #ffffff);" data-darkreader-inline-fill=""></circle>
   
   <!-- X Logo - Centered using viewBox trick -->
   <g transform="translate(4, 4) scale(1)">
