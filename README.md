@@ -2,11 +2,7 @@
   <img src="./assets/header.svg" alt="LuciKritZ header" width="854" />
 </div>
 
-<img src="./assets/line.svg" width="100%" />
-
-<br />
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" valign="middle">
       <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" />
@@ -22,6 +18,9 @@
 </table>
 
 <br />
+
+<img src="./assets/line.svg" width="100%" />
+
 <br />
 
 **Senior Software Engineer** with 6+ years of experience building high-performance software systems, internal platforms, and design systems at companies like **Uber** and **Perry AI**. I specialize in complex UI workflows, frontend performance optimization, and scalable architecture, with deep expertise in Node.js and distributed systems.
