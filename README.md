@@ -6,7 +6,7 @@
 
 <br />
 
-<table align="right" width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" valign="middle">
       <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" />
@@ -42,11 +42,9 @@ Node.js · Express · GraphQL · WebSockets · MongoDB · Redis · PostgreSQL ·
 <br />
 Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus · Grafana · Figma
 
-<br />
+<img src="./assets/line.svg" width="100%" />
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciKritZ&theme=transparent&stroke=00d9ff&background=00000000&ring=00d9ff&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=00667a" alt="GitHub Streak" width="500" />
-</div>
+<br />
 
 <div align="center">
   <img src="./assets/quote.svg" alt="Quote" width="854" />
