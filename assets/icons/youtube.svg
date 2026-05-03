@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#00ff9d"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .star { animation: twinkle var(--d) ease-in-out infinite; animation-delay: var(--dl); }
+      @keyframes twinkle { 0%, 100% { opacity: 0.1; } 50% { opacity: 0.7; } }
+    </style>
+  </defs>
+  
+  <!-- Background with rounded corners -->
+  <rect width="32" height="32" rx="6" ry="6" fill="url(#bg)"/>
+  
+  <!-- Twinkling stars -->
+  <circle class="star" cx="5" cy="5" r="0.2" fill="#ffffff" style="--d:3s;--dl:0s"/>
+  <circle class="star" cx="27" cy="5" r="0.2" fill="#ffffff" style="--d:4s;--dl:0.4s"/>
+  <circle class="star" cx="5" cy="27" r="0.2" fill="#ffffff" style="--d:2.5s;--dl:0.8s"/>
+  <circle class="star" cx="27" cy="27" r="0.2" fill="#ffffff" style="--d:3.5s;--dl:1.2s"/>
+  
+  <!-- Official YouTube Logo (centered using same method as Twitter) -->
+  <g transform="translate(4, 4) scale(1)">
+    <path fill="url(#cyan)" filter="url(#glow)" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+  </g>
+</svg>
