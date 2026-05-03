@@ -19,8 +19,6 @@
   </table>
 </div>
 
-<br />
-
 <img src="./assets/line.svg" width="100%" />
 
 <br />
