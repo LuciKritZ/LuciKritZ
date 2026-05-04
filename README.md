@@ -1,3 +1,5 @@
+<img src="./assets/line.svg" width="100%" />
+
 <div align="center">
   <img src="./assets/header.svg" alt="LuciKritZ header" width="854" />
 </div>
@@ -19,13 +21,13 @@
   </table>
 </div>
 
-<img src="./assets/line.svg" width="100%" />
+<img src="./assets/wave.svg" width="100%" />
 
 <br />
 
 **Senior Software Engineer** with 6+ years of experience building high-performance software systems, internal platforms, and design systems at companies like **Uber** and **Perry AI**. I specialize in complex UI workflows, frontend performance optimization, and scalable architecture, with deep expertise in Node.js and distributed systems.
 
-<img src="./assets/line.svg" width="100%" />
+<img src="./assets/wave.svg" width="100%" />
 
 ### Tech
 
@@ -41,10 +43,12 @@ Node.js · Express · GraphQL · WebSockets · MongoDB · Redis · PostgreSQL ·
 <br />
 Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus · Grafana · Figma
 
-<img src="./assets/line.svg" width="100%" />
+<img src="./assets/wave.svg" width="100%" />
 
 <br />
 
 <div align="center">
   <img src="./assets/quote.svg" alt="Quote" width="854" />
 </div>
+
+<img src="./assets/line.svg" width="100%" />
