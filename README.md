@@ -35,7 +35,7 @@ Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus ·
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="28" style="vertical-align: middle;" />
-  <img src="./assets/vertical_line.svg" height="28" style="vertical-align: middle; margin: 0 15px;" />
+  <img src="./assets/vertical_line.svg" height="32" style="vertical-align: middle; margin: 0 15px;" />
   <a href="https://krishalshah.in" target="_blank"><img src="./assets/icons/website.svg" alt="Website" width="32" height="32" style="vertical-align: middle;" /></a>
   <a href="https://linkedin.com/in/krishal-shah" target="_blank"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="vertical-align: middle; margin-left: 10px;" /></a>
   <a href="https://github.com/LuciKritZ" target="_blank"><img src="./assets/icons/github.svg" alt="GitHub" width="32" height="32" style="vertical-align: middle; margin-left: 10px;" /></a>
