@@ -8,19 +8,12 @@
       <stop offset="0%" stop-color="#00d9ff"/>
       <stop offset="100%" stop-color="#00ff9d"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="0.6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
-  <!-- Background with rounded corners -->
-  <rect width="32" height="32" rx="6" ry="6" fill="url(#bg)"/>
+  <!-- Background with ultra-thin border -->
+  <rect x="0.125" y="0.125" width="31.75" height="31.75" rx="6" ry="6" fill="url(#bg)" stroke="url(#cyan)" stroke-width="0.25"/>
   
-  <!-- Official YouTube Logo (centered using same method as Twitter) -->
+  <!-- Official YouTube Logo (White) -->
   <g transform="translate(4, 4) scale(1)">
-    <path fill="url(#cyan)" filter="url(#glow)" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+    <path fill="#ffffff" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
   </g>
 </svg>

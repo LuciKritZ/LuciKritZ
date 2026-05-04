@@ -1,38 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
   <defs>
-    <!-- Dark background matching your header -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#000000"/>
       <stop offset="100%" stop-color="#0a0a0a"/>
     </linearGradient>
-    
-    <!-- Cyan gradient matching your theme -->
     <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00d9ff"/>
       <stop offset="100%" stop-color="#00ff9d"/>
     </linearGradient>
-    
-    <!-- Subtle glow -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="0.6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
+  <!-- Background with ultra-thin border -->
+  <rect x="0.125" y="0.125" width="31.75" height="31.75" rx="6" ry="6" fill="url(#bg)" stroke="url(#cyan)" stroke-width="0.25"/>
   
-  <!-- Solid dark background with rounded corners -->
-  <rect width="32" height="32" rx="6" ry="6" fill="url(#bg)"/>
-  
-  <!-- Globe Icon (larger, perfectly centered) -->
+  <!-- Globe Icon (White) -->
   <g transform="translate(16, 16)">
-    <!-- Globe circle -->
-    <circle cx="0" cy="0" r="9.5" fill="none" stroke="url(#cyan)" stroke-width="1.4" filter="url(#glow)"/>
-    <!-- Longitude lines -->
-    <ellipse cx="0" cy="0" rx="4" ry="9.5" fill="none" stroke="url(#cyan)" stroke-width="1" opacity="0.7"/>
-    <ellipse cx="0" cy="0" rx="9.5" ry="3" fill="none" stroke="url(#cyan)" stroke-width="1" opacity="0.5"/>
-    <!-- Center dot -->
-    <circle cx="0" cy="0" r="1.5" fill="url(#cyan)" filter="url(#glow)"/>
+    <circle cx="0" cy="0" r="9.5" fill="none" stroke="#ffffff" stroke-width="1.4"/>
+    <ellipse cx="0" cy="0" rx="4" ry="9.5" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.7"/>
+    <ellipse cx="0" cy="0" rx="9.5" ry="3" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.5"/>
+    <circle cx="0" cy="0" r="1.5" fill="#ffffff"/>
   </g>
 </svg>
