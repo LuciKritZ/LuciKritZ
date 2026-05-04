@@ -5,6 +5,8 @@
 
 <br />
 
+<br />
+
 **Senior Software Engineer** with 6+ years of experience building high-performance software systems, internal platforms, and design systems at companies like **Uber** and **Perry AI**. I specialize in complex UI workflows, frontend performance optimization, and scalable architecture, with deep expertise in Node.js and distributed systems.
 
 <img src="./assets/wave.svg" width="100%" />
@@ -25,27 +27,20 @@ Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus ·
 
 <img src="./assets/wave.svg" width="100%" />
 
-<br />
-
 <div align="center">
   <img src="./assets/quote.svg" alt="Quote" width="854" />
 </div>
 
 <img src="./assets/line.svg" width="100%" />
 
+<br />
+
 <div align="right">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td valign="middle">
-        <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" />
-      </td>
-      <td valign="middle">
-        <a href="https://krishalshah.in" target="_blank"><img src="./assets/icons/website.svg" alt="Website" width="32" height="32" style="margin-left: 15px;" /></a>
-        <a href="https://linkedin.com/in/krishal-shah" target="_blank"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="margin-left: 15px;" /></a>
-        <a href="https://github.com/LuciKritZ" target="_blank"><img src="./assets/icons/github.svg" alt="GitHub" width="32" height="32" style="margin-left: 15px;" /></a>
-        <a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank"><img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" style="margin-left: 15px;" /></a>
-        <a href="https://x.com/lucikritz" target="_blank"><img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" style="margin-left: 15px;" /></a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" style="vertical-align: middle;" />
+  <img src="./assets/vertical_line.svg" height="28" style="vertical-align: middle; margin: 0 10px;" />
+  <a href="https://krishalshah.in" target="_blank"><img src="./assets/icons/website.svg" alt="Website" width="32" height="32" style="vertical-align: middle;" /></a>
+  <a href="https://linkedin.com/in/krishal-shah" target="_blank"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="vertical-align: middle; margin-left: 5px;" /></a>
+  <a href="https://github.com/LuciKritZ" target="_blank"><img src="./assets/icons/github.svg" alt="GitHub" width="32" height="32" style="vertical-align: middle; margin-left: 5px;" /></a>
+  <a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank"><img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" style="vertical-align: middle; margin-left: 5px;" /></a>
+  <a href="https://x.com/lucikritz" target="_blank"><img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" style="vertical-align: middle; margin-left: 5px;" /></a>
 </div>
