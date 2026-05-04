@@ -4,13 +4,9 @@
       <stop offset="0%" stop-color="#000000"/>
       <stop offset="100%" stop-color="#0a0a0a"/>
     </linearGradient>
-    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00d9ff"/>
-      <stop offset="100%" stop-color="#00ff9d"/>
-    </linearGradient>
   </defs>
-  <!-- Background with ultra-thin border -->
-  <rect x="0.125" y="0.125" width="31.75" height="31.75" rx="6" ry="6" fill="url(#bg)" stroke="url(#cyan)" stroke-width="0.25"/>
+  <!-- Background with ultra-thin border matching theme line color -->
+  <rect x="0.125" y="0.125" width="31.75" height="31.75" rx="6" ry="6" fill="url(#bg)" stroke="#00d9ff" stroke-width="0.25" opacity="0.8"/>
   
   <!-- Official LinkedIn Logo (White) -->
   <g transform="translate(6, 6) scale(1.3)">

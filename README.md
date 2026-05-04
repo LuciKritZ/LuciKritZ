@@ -33,8 +33,6 @@ Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus ·
 
 <img src="./assets/line.svg" width="100%" />
 
-<br />
-
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" style="vertical-align: middle;" />
   <img src="./assets/vertical_line.svg" height="28" style="vertical-align: middle; margin: 0 15px;" />
