@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" style="vertical-align: middle;" />
 </div>
 
@@ -37,6 +37,4 @@ Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus ·
 
 <img src="./assets/line.svg" width="100%" />
 
-<p align="right">
-  <a href="https://krishalshah.in" target="_blank"><img src="./assets/icons/website.svg" alt="Website" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/krishal-shah" target="_blank"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://github.com/LuciKritZ" target="_blank"><img src="./assets/icons/github.svg" alt="GitHub" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank"><img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://x.com/lucikritz" target="_blank"><img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" /></a>
-</p>
+[![Website](./assets/icons/website.svg)](https://krishalshah.in)&nbsp;&nbsp;[![LinkedIn](./assets/icons/linkedin.svg)](https://linkedin.com/in/krishal-shah)&nbsp;&nbsp;[![GitHub](./assets/icons/github.svg)](https://github.com/LuciKritZ)&nbsp;&nbsp;[![YouTube](./assets/icons/youtube.svg)](https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ)&nbsp;&nbsp;[![X](./assets/icons/x.svg)](https://x.com/lucikritz)
