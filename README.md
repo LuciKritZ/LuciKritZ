@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="20" style="vertical-align: middle;" />
+</div>
+
 <div align="center">
   <img src="./assets/line.svg" width="100%" />
   <img src="./assets/header.svg" alt="LuciKritZ header" width="854" />
@@ -34,11 +38,13 @@ Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus ·
 <img src="./assets/line.svg" width="100%" />
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=LuciKritZ&label=VIEWS&color=00d9ff&style=flat-square" alt="Profile views" height="28" style="vertical-align: middle;" />
-  <img src="./assets/vertical_line.svg" height="32" style="vertical-align: middle; margin: 0 15px;" />
-  <a href="https://krishalshah.in" target="_blank"><img src="./assets/icons/website.svg" alt="Website" width="32" height="32" style="vertical-align: middle;" /></a>
-  <a href="https://linkedin.com/in/krishal-shah" target="_blank"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="vertical-align: middle; margin-left: 10px;" /></a>
-  <a href="https://github.com/LuciKritZ" target="_blank"><img src="./assets/icons/github.svg" alt="GitHub" width="32" height="32" style="vertical-align: middle; margin-left: 10px;" /></a>
-  <a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank"><img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" style="vertical-align: middle; margin-left: 10px;" /></a>
-  <a href="https://x.com/lucikritz" target="_blank"><img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" style="vertical-align: middle; margin-left: 10px;" /></a>
+  <a href="https://krishalshah.in" target="_blank"><img src="./assets/icons/website.svg" alt="Website" width="32" height="32" /></a>
+  <img src="./assets/spacer.svg" width="8" />
+  <a href="https://linkedin.com/in/krishal-shah" target="_blank"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a>
+  <img src="./assets/spacer.svg" width="8" />
+  <a href="https://github.com/LuciKritZ" target="_blank"><img src="./assets/icons/github.svg" alt="GitHub" width="32" height="32" /></a>
+  <img src="./assets/spacer.svg" width="8" />
+  <a href="https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ" target="_blank"><img src="./assets/icons/youtube.svg" alt="YouTube" width="32" height="32" /></a>
+  <img src="./assets/spacer.svg" width="8" />
+  <a href="https://x.com/lucikritz" target="_blank"><img src="./assets/icons/x.svg" alt="X (Twitter)" width="32" height="32" /></a>
 </div>
