@@ -19,15 +19,24 @@
 
 **_Frontend_**
 <br />
-React · TypeScript · Next.js (SSR) · React Native · Redux Toolkit · Tailwind CSS · Storybook
+`React` · `TypeScript` · `Next.js` · `React Native` · `Redux Toolkit` · `Tailwind CSS` · `Storybook`
 
 **_Backend & Data_**
 <br />
-Node.js · Express · GraphQL · WebSockets · MongoDB · Redis · PostgreSQL · Python (Flask)
+`Node.js` · `Express` · `GraphQL` · `WebSockets` · `MongoDB` · `Redis` · `PostgreSQL` · `Python`
 
 **_DevOps & Tools_**
 <br />
-Docker · Kubernetes · Nginx · Linux (Bash) · GitHub Actions · Prometheus · Grafana · Figma
+`Docker` · `Kubernetes` · `Nginx` · `Linux (Bash)` · `GitHub Actions` · `Prometheus` · `Grafana` · `Figma`
+
+<br />
+<div>
+  <a href="https://krishalshah.in">
+    <img src="https://lucikritz-dot-github-stats.vercel.app?user=LuciKritZ&theme=highcontrast&hide_border=false&border_radius=8&card_width=700&card_height=200&ring=00D9FF&stroke=00D9FF2D&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF" alt="GitHub Streak for LuciKritZ" />
+  </a>
+</div>
+
+<br />
 
 <img src="./assets/wave.svg" width="100%" />
 
