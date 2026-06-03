@@ -30,9 +30,10 @@
 `Docker` · `Kubernetes` · `Nginx` · `Linux (Bash)` · `GitHub Actions` · `Prometheus` · `Grafana` · `Figma`
 
 <br />
+
 <div>
   <a href="https://krishalshah.in">
-    <img src="https://lucikritz-dot-github-stats.vercel.app?user=LuciKritZ&theme=highcontrast&hide_border=false&border_radius=8&card_width=700&card_height=200&ring=00D9FF&stroke=00D9FF2D&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF" alt="GitHub Streak for LuciKritZ" />
+    <img src="https://lucikritz-dot-github-stats.vercel.app?user=LuciKritZ&theme=highcontrast&hide_border=false&border_radius=8&card_width=650&card_height=200&ring=00D9FF2D&stroke=00D9FF2D&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF2D" alt="GitHub Streak for LuciKritZ" />
   </a>
 </div>
 
