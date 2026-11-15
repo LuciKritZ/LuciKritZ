@@ -47,4 +47,4 @@
 
 <img src="./assets/line.svg" width="100%" />
 
-[![Website](./assets/icons/website.svg)](https://krishal-shah.in)&nbsp;&nbsp;[![LinkedIn](./assets/icons/linkedin.svg)](https://linkedin.com/in/krishal-shah)&nbsp;&nbsp;[![GitHub](./assets/icons/github.svg)](https://github.com/LuciKritZ)&nbsp;&nbsp;[![YouTube](./assets/icons/youtube.svg)](https://www.youtube.com/channel/UCiaADk_WTnmTsRk6scstMIQ)&nbsp;&nbsp;[![X](./assets/icons/x.svg)](https://x.com/lucikritz)
+[![Website](./assets/icons/website.svg)](https://krishal-shah.in)&nbsp;&nbsp;[![LinkedIn](./assets/icons/linkedin.svg)](https://linkedin.com/in/krishal-shah)&nbsp;&nbsp;[![GitHub](./assets/icons/github.svg)](https://github.com/LuciKritZ)&nbsp;&nbsp;[![YouTube](./assets/icons/youtube.svg)](https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ)&nbsp;&nbsp;[![X](./assets/icons/x.svg)](https://x.com/lucikritz)
