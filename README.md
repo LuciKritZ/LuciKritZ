@@ -32,8 +32,8 @@
 <br />
 
 <div>
-  <a href="https://krishalshah.in">
-    <img src="https://lucikritz-dot-github-stats.vercel.app?user=LuciKritZ&theme=highcontrast&hide_border=false&border_radius=8&card_width=650&card_height=200&ring=00D9FF2D&stroke=00D9FF2D&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF2D" alt="GitHub Streak for LuciKritZ" />
+  <a href="https://krishal-shah.in">
+    <img src="https://lucikritz-dot-github-stats.vercel.app?user=LuciKritZ&theme=highcontrast&hide_border=false&border_radius=8&card_width=650&card_height=200&ring=00D9FF2D&stroke=00D9FF2D&fire=00D9FF&currStreakLabel=00D9FF&border=00D9FF" alt="GitHub Streak for LuciKritZ" />
   </a>
 </div>
 
@@ -47,4 +47,4 @@
 
 <img src="./assets/line.svg" width="100%" />
 
-[![Website](./assets/icons/website.svg)](https://krishalshah.in)&nbsp;&nbsp;[![LinkedIn](./assets/icons/linkedin.svg)](https://linkedin.com/in/krishal-shah)&nbsp;&nbsp;[![GitHub](./assets/icons/github.svg)](https://github.com/LuciKritZ)&nbsp;&nbsp;[![YouTube](./assets/icons/youtube.svg)](https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ)&nbsp;&nbsp;[![X](./assets/icons/x.svg)](https://x.com/lucikritz)
+[![Website](./assets/icons/website.svg)](https://krishal-shah.in)&nbsp;&nbsp;[![LinkedIn](./assets/icons/linkedin.svg)](https://linkedin.com/in/krishal-shah)&nbsp;&nbsp;[![GitHub](./assets/icons/github.svg)](https://github.com/LuciKritZ)&nbsp;&nbsp;[![YouTube](./assets/icons/youtube.svg)](https://www.youtube.com/channel/UCIaADk_WTnmTsRk6scstMIQ)&nbsp;&nbsp;[![X](./assets/icons/x.svg)](https://x.com/lucikritz)
